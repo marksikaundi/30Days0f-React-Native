@@ -1,0 +1,24 @@
+image: registry.gitlab.com/fullstackio/book-tools/fsbookgen:staging
+
+stages:
+  - build
+
+before_script:
+  - make bootstrap-tools
+
+.build_template: &build_definition
+  stage: build
+
+build_staging:
+  <<: *build_definition
+  only:
+    - staging
+  script:
+    - make ci-sync-30d-with-newline
+
+build_production:
+  <<: *build_definition
+  only:
+    - production
+  script:
+    - make ci-sync-30d-with-newline

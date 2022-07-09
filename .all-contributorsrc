@@ -1,0 +1,42 @@
+{
+  "projectName": "thirty-days-of-react-native",
+  "projectOwner": "fullstackreactnative",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 140,
+  "commit": true,
+  "contributorTemplate": "<a href='<%= contributor.profile %>'><img src='<%= contributor.avatar_url %>' width='<%= options.imageSize %>px;'/><h4 align='center'><a href='<%= contributor.profile %>'><%= contributor.name %></a></h4>",
+  "contributorsPerLine": 5,
+  "contributors": [
+    {
+      "login": "dabbott",
+      "name": "Devin Abbott",
+      "avatar_url": "https://pbs.twimg.com/profile_images/697293943872970754/dkgMlBJX_400x400.jpg",
+      "profile": "https://twitter.com/dvnabbott",
+      "contributions": [
+        "blog"
+      ]
+    },
+    {
+      "login": "hdjirdeh",
+      "name": "Houssein Djirdeh",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1047891359007461376/WDC2DvTX_400x400.jpg",
+      "profile": "https://twitter.com/hdjirdeh",
+      "contributions": [
+        "blog"
+      ]
+    },
+    {
+      "login": "acco",
+      "name": "Accomazzo Anthony",
+      "avatar_url": "https://s3.amazonaws.com/assets.fullstack.io/n/20190131235848763_acco.png",
+      "profile": "https://twitter.com/accomazzo",
+      "contributions": [
+        "blog"
+      ]
+    }
+  ]
+}
