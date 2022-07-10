@@ -94,6 +94,9 @@ Now that we have a local development server running, we just need to view the ap
 - If you would like to run on a simulator:
   - Press `a` to run on an Android emulator or press `i` to run on an iOS simulator
 
+- If you do not have any of the stated above, you can run your app
+  - by pressing `w` to run using the browser
+
 And now you should see the application running directly on your mobile phone:
 
 <img src="public/images/expo-hello-world.png" style="background:#fafafa;border:1px solid rgba(0,0,0,.08);border-radius:4px;height:500px;">

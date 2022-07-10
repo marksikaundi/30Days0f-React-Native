@@ -1,0 +1,6 @@
+'Tools required to work with React Native'
+#Nodejs
+#expo cli
+#npm or yarn
+#xcode, Android studio, iphone or Android
+#Windows, Macos or Linux
