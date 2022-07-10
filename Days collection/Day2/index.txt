@@ -4,3 +4,5 @@
 #npm or yarn
 #xcode, Android studio, iphone or Android
 #Windows, Macos or Linux
+
+The app can also run in other device so long you in the same network

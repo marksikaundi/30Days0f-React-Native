@@ -112,6 +112,9 @@ export default function App() {
     <View style={styles.container}>
       <Text>Let's change this line to see if it works!</Text>
     </View>
+    <View>
+      <Text>Welcome to Day30 of coding in react native</Text>
+    </View>
   );
 }
 
