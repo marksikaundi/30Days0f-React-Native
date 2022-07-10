@@ -8,7 +8,7 @@ coverImageBackgroundPosition: "50% 70%;"
 
 Welcome to 30 days of React Native! Each day in our 30-day journey will cover a different React Native topic. Many of the articles will build upon the previous day’s materials, and by the end of it we'll have covered all the concepts you need to build your own mobile app using React Native.
 
-We expect readers to be familiar with fundamental React concepts like _components_ already. If you’re not, you can learn many of these with our more web-focused course [30 days of React](https://www.fullstackreact.com/30-days-of-react/). A basic understanding of web concepts like CSS is also expected.
+We expect readers to be familiar with fundamental React concepts like _components_ already. If you’re not, you can learn many of these with our more web-focused course [30 days of React](https://www.devcircleafrica.com/codes). A basic understanding of web concepts like CSS is also expected.
 
 You don't need to have any experience building mobile apps to understand any of the material covered. If you do have some mobile development experience and you're already familiar with a topic, feel free to skip ahead.
 
@@ -30,7 +30,7 @@ The term _"native"_ in React Native means that the user interface of our app is 
 
 ## Why React Native?
 
-Many developers write native mobile applications using platform-supported languages, such as Swift/Objective-C for iOS and Java/Kotlin for Android. Instead of writing in different languages to build for both platforms, React Native allows you to build parts of your application (or all of it) in a single language (JavaScript) and framework (React). This minimizes the burden of familiarizing yourself with all the different languages, toolchains and development environments needed to support both iOS and Android. In other words, you can re-use any prior React and JavaScript knowledge from building web apps when building native mobile apps.
+Many developers write native mobile applications using platform-supported languages, such as Swift/Objective-C for iOS and Java/Kotlin for Android. Instead of writing in different languages to build for both platforms, React Native allows you to build parts of your application (or all of it) in a single language (JavaScript) and framework (React Native). This minimizes the burden of familiarizing yourself with all the different languages, toolchains and development environments needed to support both iOS and Android. In other words, you can re-use any prior React and JavaScript knowledge from building web apps when building native mobile apps.
 
 In addition to making it easy to share code between iOS and Android, React Native also allows developers to build components or functionality specific to one platform. We can write native components and APIs and define a “bridge” to the JavaScript interface. This flexibility means we can use React Native both for brand new projects and existing native applications.
 
