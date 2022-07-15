@@ -43,11 +43,7 @@ Some days have special instructions, e.g. how to set up a new React Native proje
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <table>
-  <tr>
-    <td align="center"><a href='https://twitter.com/dvnabbott'><img src='https://pbs.twimg.com/profile_images/697293943872970754/dkgMlBJX_400x400.jpg' width='140px;'/><h4 align='center'><a href='https://twitter.com/dvnabbott'>Devin Abbott</a></h4></td>
-    <td align="center"><a href='https://twitter.com/hdjirdeh'><img src='https://pbs.twimg.com/profile_images/1047891359007461376/WDC2DvTX_400x400.jpg' width='140px;'/><h4 align='center'><a href='https://twitter.com/hdjirdeh'>Houssein Djirdeh</a></h4></td>
-    <td align="center"><a href='https://twitter.com/accomazzo'><img src='https://s3.amazonaws.com/assets.fullstack.io/n/20190131235848763_acco.png' width='140px;'/><h4 align='center'><a href='https://twitter.com/accomazzo'>Accomazzo Anthony</a></h4></td>
-  </tr>
+  
 </table>
 
 <!-- markdownlint-enable -->
