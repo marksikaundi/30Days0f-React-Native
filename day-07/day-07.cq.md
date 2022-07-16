@@ -4,6 +4,7 @@ When building a mobile app, we often display images from many different sources:
 
 Because of these many different use cases, the `Image` component in React Native has to be extremely flexible. Today we'll look at some of the different ways we can use the `Image` component to display images.
 
+# Ways of displaying the Images in React Native🔥
 ## Bundled images
 
 We use the source prop of the `Image` component to choose what image to display.
